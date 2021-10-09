@@ -1,2 +1,2 @@
 # Manthan
-The datavase is added in the repository
+The database is added in the repository
